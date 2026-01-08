@@ -1,0 +1,15 @@
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema/IDE
+.DS_Store
+.vscode/
+
+# Arquivos PDF locais de teste (para não vazar dados pessoais)
+*.pdf
